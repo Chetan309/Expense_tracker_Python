@@ -34,6 +34,6 @@ This is a command-line Expense Tracker application that allows users to record e
 ## Contact
 
 For any inquiries or collaborations, reach out via:
-- **GitHub:** [YourUsername](https://github.com/Chetan309)
-- **Email:** [your-email@example.com](mailto:chetan309044@gmail.com)
+- **GitHub:** [Chetan309](https://github.com/Chetan309)
+- **Email:** [Chetan309044@gmail.com](mailto:chetan309044@gmail.com)
 
